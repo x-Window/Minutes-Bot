@@ -1,0 +1,21 @@
+Automate minutes google doc by using file i/o
+
+1. Identify highlighted input areas
+	Skip clog name (Stock Market Club)
+	Skip account number (none)
+	Skip signatures (Only needed if finances, constitutional changes, officer changes, or any possible flags)
+	Fill in Adjournment of meeting Motion Aditya Iyer Second Kireeti Chilakamarry
+	Adjournment Time: 1:15 pm
+	Location: F07
+	Present/Absent: https://docs.google.com/spreadsheets/d/1QDEewz6dpcN51Kh3kJbqhmZC4sO1n3H-l9gKBnJTNvI/edit?usp=sharing
+	Time: 12:55 pm President: Aditya Iyer
+	
+2. Ask for user input
+	Old Business:
+	New Business:
+	Date
+	Next meeting date
+	
+3. Fill it in with that
+4. Export all into a file
+
